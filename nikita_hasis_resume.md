@@ -5,11 +5,12 @@
 
 | 🌐 | :octocat: | ✍️ | 
 |---|---|---|
-| austin, tx  |  [@hasis](https://github.com/hasis/)  |  [blog](https://nikitahasis.com)  |
+| madrid, 🇪🇸  |  [@hasis](https://github.com/hasis/)  |  [blog](https://nikitahasis.com)  |
 
 
 ### Skills and Things:
 - JavaScript (Node, React + RN, NoSQL).
+- Swift / SwiftUI
 - Jira + Trello expert by trade, GitHub Projects user by choice.
 - GTM strategist and driver.
 - Guiding teams on agile processes and continuous improvement.
