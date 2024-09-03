@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @hasis
-- ❤️ JavaScript, Swift, Markdown
-- 🏸 Outside of writing code and making my teams tick, I enjoy a good ⚽ tackle, 🎵 & 📽️ making and having a cuddly orange cat in my lap. 
+- 👋 Hi, do stuff.
+- JavaScript, Swift, Markdown
+- Love a good tackle
